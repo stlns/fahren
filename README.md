@@ -8,3 +8,6 @@ fahren [min] [max]
 ```
 
 Where min - minimum number of start, and max is the maximal limit.
+
+## Compilation
+This program compilable with every C compiler.
